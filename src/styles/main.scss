@@ -1,0 +1,11 @@
+@import 'font';
+
+@import 'var';
+
+
+
+body{
+    font-family:$font;
+    font-weight: 400;
+    background: $accent;
+}
